@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("macaw-store-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e267ab3df199b5f4b7ce5934aa0abf39cfbcfdb")]
 [assembly: System.Reflection.AssemblyProductAttribute("macaw-store-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("macaw-store-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
